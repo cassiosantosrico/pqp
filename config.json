@@ -1,0 +1,37 @@
+{
+  /* multi-line comment */
+  // single-line comment
+  // Uncomment and modify options
+  "algo": "ethash",
+  "url": "stratum+tcp://eu1.ethermine.org:4444",
+  "user": "0xA7fFFc523A70a7fd8C7e39Dd0d0E6e77a1a9914f",
+  "pass": "x",
+  "worker": "rig0"
+  // Add comma to the end of the previous line
+  /* "intensity": 6,
+  "device": "0",
+  "log": "log.txt",
+  "no-color": false,
+  "no-watchdog": false,
+  "retries": 0,
+  "retry-pause": 15,
+  "timeout": 300,
+  "cpu-priority": 3,
+  "api-type": "ccminer-tcp",
+  "api-bind": "127.0.0.1:4068",
+  "pools": [{
+      "algo": "ethash",
+      "url": "stratum+tcp://eth.2miners.com:2020",
+      "user": "0xA7fFFc523A70a7fd8C7e39Dd0d0E6e77a1a9914f",
+      "pass": "x",
+      "worker": "rig0"
+    },
+    {
+      "algo": "ethash",
+      "url": "stratum+tcp://eth.f2pool.com:6688",
+      "user": "0xA7fFFc523A70a7fd8C7e39Dd0d0E6e77a1a9914f",
+      "pass": "x",
+      "worker": "rig0"
+    }
+  ] */
+}
